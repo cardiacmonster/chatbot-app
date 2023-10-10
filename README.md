@@ -8,6 +8,11 @@ This Flutter app demonstrates the integration of the OpenAI API to create a chat
 - A user-friendly and customizable chat interface.
 - Easy integration with the OpenAI API.
 
+  ## Screenshots
+![WhatsApp Image 2023-10-10 at 09 35 09_26af1a3f](https://github.com/cardiacmonster/chatbot-app/assets/96521500/82db4e99-1ecb-4373-8964-fefe2a2e6658)
+![WhatsApp Image 2023-10-10 at 09 35 09_be8cacbb](https://github.com/cardiacmonster/chatbot-app/assets/96521500/66774d8c-0160-4328-b12e-68c440b3c912)
+![WhatsApp Image 2023-10-10 at 09 35 08_87f89dc9](https://github.com/cardiacmonster/chatbot-app/assets/96521500/f0c4e326-61d2-408c-8c81-b188e8553675)
+
 ## Getting Started
 
 ### Prerequisites
